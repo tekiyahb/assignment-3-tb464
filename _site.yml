@@ -1,0 +1,9 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Tekiyah"
+      href: Tekiyah.html
+    - text: "Karter"
+      href: Karter.html 

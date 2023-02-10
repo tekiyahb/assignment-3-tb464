@@ -1,0 +1,23 @@
+---
+title: "Assignment 3 index"
+author: "Tekiyah Brewley and Karter Courser"
+date: "2023-02-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Tekiyah's git hub link:
+[Tekiyah](https://github.com/tekiyahb)
+
+## Karter's git hub link: 
+[Karter](https://github.com/Kcouser)
+
+
+
+Collaboration is the key to success 
+![](https://t4.ftcdn.net/jpg/01/54/85/81/360_F_154858180_hKufafm5J9b9LRQmfQidOi2imgndT451.jpg) 
+
+

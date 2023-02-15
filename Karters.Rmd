@@ -1,0 +1,30 @@
+---
+title: "Karter"
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Degree of study: Master's of science Biology 
+
+![](https://thumbs.dreamstime.com/b/biology-hand-drawn-doodles-lettering-education-science-vector-white-background-135246167.jpg)
+
+* Cornell Thomas Wyatt Turner Fellow 
+
+1. Hobbies: writing and skating 
+![](https://media-cdn.tripadvisor.com/media/photo-s/18/0f/01/b9/img-20190621-214034-largejpg.jpg)
+
+
+2. Favorite Animal: Dolphin
+
+![](https://th.bing.com/th/id/R.5390147cfb22579cfd2c6262e3691117?rik=T5lsn91yQp5Omw&pid=ImgRaw&r=0)
+
+
+
+3. Favorite sport: Football 
+
+![](https://th.bing.com/th/id/R.c5e3128a5c6508946c67a10e35f39263?rik=knIVDvtVqkJIhw&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2016%2f12%2fShape-Green-Bay-Packers-Logo.png&ehk=liwYBrT459%2bRf3F8CDUKmofoR0Vdc3AxPyfwFg%2bLfMY%3d&risl=&pid=ImgRaw&r=0)
+
+

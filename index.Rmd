@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 [Tekiyah](https://github.com/tekiyahb)
 
 ## Karter's git hub link: 
-[Karter](https://github.com/Kcouser)
+[Karter]()
 
 
 

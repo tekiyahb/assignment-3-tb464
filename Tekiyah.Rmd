@@ -10,7 +10,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Cornell Thomas Wyatt Turner Fellow 
 
-1. Hobbies: exercising 
-2. Favorite Animal: Dog 
-3. Favorite sport: Basketball 
+1. Hobbies: exercising ![](https://health.clevelandclinic.org/wp-content/uploads/sites/3/2022/04/exerciseHowOften-944015592-770x533-1-650x428.jpg)
+
+
+2. Favorite Animal: Dog ![](https://www.thesprucepets.com/thmb/aAEE1D_mgBmYgvGw61sjhS6BqVM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/golden-retriever-puppy-in-grass-923135452-5c887d4146e0fb00013365ba.jpg)
+
+
+3. Favorite sport: Basketball ![](https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Chicago_Bulls_logo.svg/1200px-Chicago_Bulls_logo.svg.png)
 
